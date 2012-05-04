@@ -31,8 +31,8 @@
 																																																									<div class="entry-content">
 																																																									<!-- thowe attempts custom field display -->
 																																																													<?php the_meta(); ?>
-																																																																	<?php if ( get_post_custom($post->ID, 'affiliation', true) ) : ?>
-																																																																						<h3><?php echo get_post_custom($post->ID, 'affiliation', true) ?></h3>
+																																																																	<?php if ( get_post_meta($post->ID, 'affiliation', true) ) : ?>
+																																																																						<h3><?php echo get_post_meta($post->ID, 'affiliation', true) ?></h3>
 																																																																										<?php endif; ?>
 																																																																														<!-- end -->
 
