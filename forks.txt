@@ -6,3 +6,7 @@ When you accepted the pull request, that's what brought this file into _your_ pr
 
 If I had edited one of the files, like to fix a bug, it would then change what's in your project -- assuming there weren't conflicts between your work and my work! :)
 
+If you were to add me to _your_ repo, I would have cloned the repo ("git clone <repo uri>") and committed changes directly.
+
+So a fork makes a completely different copy of the repo for someone not on the project to work on. Adding someone else to the project lets them make changes directly.
+
