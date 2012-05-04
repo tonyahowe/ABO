@@ -1,0 +1,8 @@
+Hi Tonya!
+
+I forked the project, added this to it, pushed it back to _my_ origin/master for the project, then issued a pull request.
+
+When you accepted the pull request, that's what brought this file into _your_ project.
+
+If I had edited one of the files, like to fix a bug, it would then change what's in your project -- assuming there weren't conflicts between your work and my work! :)
+
