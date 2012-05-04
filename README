@@ -29,7 +29,7 @@
 
 			</header>
 			<div class="entry-content">
-<!-- thowe attempts custom field display -->
+<!-- thowe is making a very sad attempt at custom field display -->
 				<?php the_meta(); ?>
 				<?php if ( get_post_custom($post->ID, 'affiliation', true) ) : ?>
 					<h3><?php echo get_post_custom($post->ID, 'affiliation', true) ?></h3>
